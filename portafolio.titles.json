@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "65034e475e130f1069d7f0eb"
+  },
+  "date": {
+    "$date": "2023-09-14T18:17:43.449Z"
+  },
+  "title": "ASIR - Formación Profesional Superior",
+  "enddate": "2015-2017",
+  "description": "MARISTAK IKASTETXEA, Durango, Administración de Sistemas Informáticosen Red",
+  "image": "https://maristak.com/wp-content/uploads/2021/05/maristak-favicon.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65034f2e81348fbf25b2b6d9"
+  },
+  "date": {
+    "$date": "2023-09-14T18:21:34.690Z"
+  },
+  "title": "CIBERSEGURIDAD",
+  "enddate": "2018-2019",
+  "description": "MARISTAK IKASTETXEA, Durango, Programa de especialización en ciberseguridad en PYMES",
+  "image": "https://www.netkia.es/wp-content/uploads/2022/02/icono-ciberseguridad.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65034f7081348fbf25b2b6db"
+  },
+  "date": {
+    "$date": "2023-09-14T18:22:40.703Z"
+  },
+  "title": "IFCD - DESARROLLO Nivel 2",
+  "enddate": "2019-2020",
+  "description": "MARISTAK IKASTETXEA, Durango (LANBIDE), Confección y publicación de páginas web",
+  "image": "https://jml.neocities.org/html5-css3-js.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65034f9681348fbf25b2b6dd"
+  },
+  "date": {
+    "$date": "2023-09-14T18:23:18.520Z"
+  },
+  "title": "ANGULAR",
+  "enddate": "2022",
+  "description": "IPARTEK - Bilbao Certificado",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65034fb681348fbf25b2b6df"
+  },
+  "date": {
+    "$date": "2023-09-14T18:23:50.833Z"
+  },
+  "title": "INGLES - Nivel B1",
+  "enddate": "2022",
+  "description": "IBAIZABAL IKASTOLA, Durango (LANBIDE) Certificado",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWBV_SV7ueTRd4vcOaTvO04BLOkDhvSeBxMyDZin5cT_yNAi0xR6237YtQJ4yYN7-ah9c&usqp=CAU",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65034fe481348fbf25b2b6e1"
+  },
+  "date": {
+    "$date": "2023-09-14T18:24:36.233Z"
+  },
+  "title": "ASP.NET - .NET Framework",
+  "enddate": "2022",
+  "description": "C2B - CAMPUS TO BUSINESS Bilbao (.NETFramework, lenguaje C#, Bases de datos y APIs. ASP.NET: MVC, SCRUM)",
+  "image": "https://culture-lab.es/wp-content/uploads/2020/08/asp_net.png",
+  "__v": 0
+}]

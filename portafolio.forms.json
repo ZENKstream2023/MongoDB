@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "65070fecbb80161a06e7b026"
+  },
+  "company": "Apple",
+  "email": "apple@apple.es",
+  "address": "Kurutzezar 5 1D",
+  "subject": "Contratación",
+  "description": "Queremos contratarte",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65071994bb80161a06e7b028"
+  },
+  "company": "Facebook",
+  "email": "facebook@facebook.es",
+  "address": "Olleria Nº 24 P3 - C",
+  "subject": "Contratación",
+  "description": "¿Estás disponible el próximo Martes para presentarte la empresa?",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65071a96bb80161a06e7b02a"
+  },
+  "company": "Google",
+  "email": "google@google.es",
+  "address": "Maspe Nº12 P 4-A",
+  "subject": "Contratación",
+  "description": "Nos ha gustado mucho tu perfil, por favor contacta con nosotros lo antes posible.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65072325bb80161a06e7b076"
+  },
+  "company": "Samsung",
+  "email": "samsung@samsung.es",
+  "address": "Artekale Nº 26 P1-D",
+  "subject": "Contratación",
+  "description": "Nos gustaría conocerte.\n¿Podrías indicarnos tu horario?",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650735cebb80161a06e7b1ca"
+  },
+  "company": "ads",
+  "email": "asd@asd.es",
+  "address": "sad",
+  "subject": "asd",
+  "description": "ads",
+  "__v": 0
+}]
